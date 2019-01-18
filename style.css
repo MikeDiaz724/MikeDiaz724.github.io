@@ -1,0 +1,26 @@
+h1, h2{
+	text-align: center;
+	color: white;
+}
+
+img {
+	border-radius: 30%;
+}
+
+
+body {
+	background-color: indigo;
+}
+
+
+p {
+	color: #DCDCDC ;
+}
+
+#travels {
+	color: #DCDCDC;
+}
+
+.Mexico, .US {
+	width: 30%;
+}
